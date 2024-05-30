@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|c:\\users\\jmino2\\downloads\\zaptecinterviewchallenge (1)\\zaptecinterviewchallenge\\backend\\chargeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|solutionrelative:chargeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|c:\\users\\jmino2\\downloads\\zaptecinterviewchallenge (1)\\zaptecinterviewchallenge\\backend\\installation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|solutionrelative:installation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|c:\\users\\jmino2\\downloads\\zaptecinterviewchallenge (1)\\zaptecinterviewchallenge\\backend\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|c:\\users\\jmino2\\downloads\\zaptecinterviewchallenge (1)\\zaptecinterviewchallenge\\backend\\installationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|solutionrelative:installationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|c:\\users\\jmino2\\downloads\\zaptecinterviewchallenge (1)\\zaptecinterviewchallenge\\backend\\charger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|solutionrelative:charger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|c:\\users\\jmino2\\downloads\\zaptecinterviewchallenge (1)\\zaptecinterviewchallenge\\backend\\controllers\\chargerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|solutionrelative:controllers\\chargerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|c:\\users\\jmino2\\downloads\\zaptecinterviewchallenge (1)\\zaptecinterviewchallenge\\backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52D4BB3-92E2-4ACD-99F5-39BED2FC6512}|Backend.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b2b99721-d475-40f1-a543-066a2ac6ba44}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:31:39.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChargersController.cs",
+              "DocumentMoniker": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Controllers\\ChargersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChargersController.cs",
+              "ToolTip": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Controllers\\ChargersController.cs",
+              "RelativeToolTip": "Controllers\\ChargersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA8wDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:01:16.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Class.cs",
+              "RelativeDocumentMoniker": "Class.cs",
+              "ToolTip": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Class.cs",
+              "RelativeToolTip": "Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:46:38.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAQwGMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:32:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstallationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\InstallationRepository.cs",
+              "RelativeDocumentMoniker": "InstallationRepository.cs",
+              "ToolTip": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\InstallationRepository.cs",
+              "RelativeToolTip": "InstallationRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:58:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Installation.cs",
+              "DocumentMoniker": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Installation.cs",
+              "RelativeDocumentMoniker": "Installation.cs",
+              "ToolTip": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Installation.cs",
+              "RelativeToolTip": "Installation.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAUwEcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:40:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Charger.cs",
+              "DocumentMoniker": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Charger.cs",
+              "RelativeDocumentMoniker": "Charger.cs",
+              "ToolTip": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\Charger.cs",
+              "RelativeToolTip": "Charger.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIA2wDoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:35:52.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChargeService.cs",
+              "DocumentMoniker": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\ChargeService.cs",
+              "RelativeDocumentMoniker": "ChargeService.cs",
+              "ToolTip": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\Backend\\ChargeService.cs",
+              "RelativeToolTip": "ChargeService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADgvy0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:21:13.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\readme.md",
+              "RelativeDocumentMoniker": "..\\readme.md",
+              "ToolTip": "C:\\Users\\JMino2\\Downloads\\ZaptecInterviewChallenge (1)\\ZaptecInterviewChallenge\\readme.md",
+              "RelativeToolTip": "..\\readme.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-26T12:00:55.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

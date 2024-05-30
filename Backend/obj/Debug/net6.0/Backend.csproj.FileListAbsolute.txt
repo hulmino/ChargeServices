@@ -1,0 +1,56 @@
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend.exe
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend.dll
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/appsettings.json
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend.deps.json
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend.runtimeconfig.json
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend.pdb
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.csproj.AssemblyReference.cache
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.AssemblyInfoInputs.cache
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.AssemblyInfo.cs
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.csproj.CoreCompileInputs.cache
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets/msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets/msbuild.build.Backend.props
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Backend.props
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Backend.props
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/scopedcss/bundle/Backend.styles.css
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.csproj.Up2Date
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.dll
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/refint/Backend.dll
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.pdb
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.genruntimeconfig.cache
+C:/Users/JMino2/Downloads/ZaptecInterviewChallenge (1)/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/ref/Backend.dll
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/appsettings.Development.json
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/appsettings.json
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend.deps.json
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend.runtimeconfig.json
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend.dll
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Backend.pdb
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.csproj.AssemblyReference.cache
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.AssemblyInfoInputs.cache
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.AssemblyInfo.cs
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.csproj.CoreCompileInputs.cache
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets/msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets/msbuild.build.Backend.props
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Backend.props
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Backend.props
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/scopedcss/bundle/Backend.styles.css
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.csproj.CopyComplete
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.dll
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/refint/Backend.dll
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.pdb
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/Backend.genruntimeconfig.cache
+/Users/juljanamino/Desktop/ZaptecChallenge/ZaptecInterviewChallenge/ZaptecInterviewChallenge/Backend/obj/Debug/net6.0/ref/Backend.dll

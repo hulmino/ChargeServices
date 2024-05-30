@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nc8mEXXpb6L2jptSiG/k100dsjdGd8kY6BKW/Mi3WISXHZ6lbWrz8I736fOaR0MdvCnmbiR7Sc+E924K6ufrbg==",
+  "success": true,
+  "projectFilePath": "/Users/juljanamino/Desktop/ZaptecChallenge/ZFE-zipp/Backend/Backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/juljanamino/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
