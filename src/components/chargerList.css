@@ -1,0 +1,42 @@
+.contents {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.chargerContainer {
+    width: 22%;
+    height: 300px;
+    background-color: #fff;
+    margin: 1em;
+    padding: 0.6rem;
+}
+
+img {
+    width: 100%
+}
+
+.batteryLevel {
+    width: 100%;
+    background: #c2c3c5;
+    height: 10px;
+}
+
+.batteryLevel div {
+    width: 37%;
+    height: 10px;
+    background-color: #557acf;
+}
+
+.batterypercentage {
+    font-size:1.4em; font-weight: bold; color: #000;
+}
+
+button{
+    width: 100%;
+    background-color: #282c34;
+    color: #fff;
+    height: 36px;
+    border: none;
+    font-size: 1.1em;
+}
